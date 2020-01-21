@@ -1,0 +1,35 @@
+.detail-product {
+    margin-left: 10%;
+
+}
+.container {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.col-4 {
+    text-align: center;
+}
+.col-4 img {
+    width: 100%;
+}
+.col-1 h1 {
+    font-size: 30px;
+}
+.col-8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.col-8 h3 {
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+.col-8 p {
+    font-size: 12px;
+    margin-top: 2px;
+    font-weight: 100;
+}
